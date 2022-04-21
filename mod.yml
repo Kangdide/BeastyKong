@@ -1,0 +1,8 @@
+name: BeastyKong
+assets:
+
+#Voice
+- name: voice\us\battle\bb0_beast.vsb
+  method: copy
+  source:
+  - name: voice\us\battle\bb0_beast.vsb
